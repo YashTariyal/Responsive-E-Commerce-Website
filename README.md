@@ -17,6 +17,3 @@ Front-end for an e-commerce clothes selling website.
 <img src="Demo_look/Web_look_7.PNG" width = "100%">
 <img src="Demo_look/Web_look_8.PNG" width = "100%">
 <img src="Demo_look/Web_look_9.PNG" width = "100%">
-<img src="Demo_look/Web_look_10.PNG" width = "100%">
-
-Hope this may help in your project someway...!
